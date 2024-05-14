@@ -1,4 +1,4 @@
-# Income-Expense-Forecast
+# Income-Expenditure-Forecast
 "# Income-Forecast" 
 
 This is an Income Expenditure Forecast Caculator, it forecast your 3 months of your personal income and expenditure.
