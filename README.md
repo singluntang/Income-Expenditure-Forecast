@@ -8,8 +8,8 @@ it properly or efficiently.
 
 Please Note:
 
-This is just a tempory action. Intention are not for those well developed or originally economic is healthy, countries or cities 
-such as Hong Kong for example are not suitable. Even well develope coutries but facing bad economic due to different reasons 
+This is just a tempory action. Intention are not for those well developed or originally economic is healthy. Countries or cities 
+such as Hong Kong for example is not suitable. Even well developed coutries but facing bad economic due to different reasons 
 such as Japan, Brazil, Argentina...etc are suitable and a way to handle their personal income expenditure properly.
 
 By the Way I am from Hong Kong.
