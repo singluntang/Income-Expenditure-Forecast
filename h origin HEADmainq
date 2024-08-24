@@ -1,0 +1,354 @@
+[33mcommit 81d0c1319668fa82c007dfd50915e1e079961003[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Aug 24 15:53:08 2024 +0800
+
+    docs: Fixed the Major bug and reduce the cigarette
+    comsumption to 60 packets.
+
+[33mcommit c42ae2fdc57badd5d0332dadf594d1fb66fa4142[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Aug 24 14:37:53 2024 +0800
+
+    docs: Expenses Updated
+
+[33mcommit 106adff4173d57298a2568a2b0ae6d664865dbf4[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Thu Aug 22 07:09:51 2024 +0800
+
+    docs: expense update, include electricity and gas.
+
+[33mcommit 1cdef0dc26b6c90526f6f829574781a0dc9d2603[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Thu Aug 22 03:50:01 2024 +0800
+
+    docs: 600 Hong Kong Ingredients Added
+
+[33mcommit 5663df608e897fcfa80b4eb8357f3eaa2d64c1b1[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Aug 20 22:41:15 2024 +0800
+
+    docs: Expense Updated
+
+[33mcommit 574a3b8053168f453b59f11059fcd0ed62394c10[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Aug 20 21:37:15 2024 +0800
+
+    docs: Expenses Updated
+
+[33mcommit e3217494bd035869df61a8a0aab281d54ef2c5ac[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Fri Aug 2 13:58:04 2024 +0800
+
+    docs: Update Expenses
+
+[33mcommit 9230c61d82eb9bd9512230ef22dfcb78cc7ebb09[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jul 23 18:14:17 2024 +0800
+
+    docs: Updated Expense
+
+[33mcommit d1662bcbb278cdf7c72aad04b35810ce452ffe7c[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jul 23 17:54:30 2024 +0800
+
+    docs: Updated Expense
+
+[33mcommit 5a8d831941f7798a14cb1f089ccb356d5e391fdd[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jul 23 17:04:11 2024 +0800
+
+    docs: Updated Expense
+
+[33mcommit 475fb8bfdfdc2bf34f96bc263e02c5dd9ccb4c9c[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Fri Jul 19 05:45:55 2024 +0800
+
+    docs: Updated Mom Installment.
+
+[33mcommit abaa221017aedacf920be01941229d9049e60d05[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Fri Jul 19 05:27:13 2024 +0800
+
+    docs: Income Forecast Expense Updated
+
+[33mcommit d5797e79824420c047cf0baf30ea85749ad26284[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jul 7 14:31:33 2024 +0800
+
+    docs: updated expenses
+
+[33mcommit 4ba581daf201b247282d1503974c9d5065e6cbfc[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Jul 6 17:57:03 2024 +0800
+
+    docs: changed the cell location of the Total Debts
+
+[33mcommit 78881f939dede40163b7708a40ef5a04c20a4a4f[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Jul 6 17:47:03 2024 +0800
+
+    docs: Added Debt Summary
+
+[33mcommit ca6c5f44f404417e62072beb9fc0d67d1ca3950b[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Jul 6 16:53:29 2024 +0800
+
+    docs: Added Monthly Balance Table
+
+[33mcommit 2af944f38d9847d5592aca2edbeb4a7dd9c8020f[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Jul 6 15:38:17 2024 +0800
+
+    docs: Add previous and current assets to match the
+    balance and relocate the expenses.
+
+[33mcommit 2b33934a7cb716964ea47d184514f0b43009e56c[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Fri Jul 5 23:43:48 2024 +0800
+
+    docs: updated expenses
+
+[33mcommit 7d2475d7e9636b873972c3a2caf81de679823784[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Thu Jul 4 21:16:20 2024 +0800
+
+    docs: updated expenses
+
+[33mcommit fe6dcf91828086b438eb97abd2708470cc494911[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Wed Jul 3 20:57:19 2024 +0800
+
+    docs: update expenses
+
+[33mcommit 9ad18b89e90e5d7789e755cbbe0ed4fbf9040c7e[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jul 2 23:37:35 2024 +0800
+
+    docs: expenses update
+
+[33mcommit d264ae1a490ec86e1d1485b59e360f2a926dbd30[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Mon Jul 1 20:54:41 2024 +0800
+
+    docs: Update expenses
+
+[33mcommit 9786f1319e32a4b269eb112f614c49c05cade6b5[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Fri Jun 21 21:59:25 2024 +0800
+
+    docs: Updated Income and Revenue and Other Expense
+
+[33mcommit 1dcb3e8698763ff3dbb10336c923b2e5aaf73e92[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Thu Jun 20 12:23:45 2024 +0800
+
+    docs: Updated Ng Wing Lam installment plan.
+
+[33mcommit ef807f9c7ee535e632848eb55c6fd0159d721a45[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Wed Jun 19 21:57:17 2024 +0800
+
+    docs: Update Installment Plan For 素未謀面嘅人.
+
+[33mcommit 9fe6886311f4352730c5098fe1f587e8c6eb5452[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Wed Jun 19 21:48:20 2024 +0800
+
+    docs: Updated Salary and Debts Installments.
+
+[33mcommit 67dd790de75e2fbdb9e37e1adaaf2b05c364c1dc[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jun 18 12:34:06 2024 +0800
+
+    docs: Update installment for Ng Wing Lam
+
+[33mcommit c3986c1f395c887cd0071737bccd88f7fde0507e[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jun 18 11:49:15 2024 +0800
+
+    docs: Update the Salary and Expense
+
+[33mcommit bdb00343273f0c12502aec6959512debbfd99d0c[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jun 18 03:16:19 2024 +0800
+
+    docs: Updated meal plan
+
+[33mcommit a7e1ed570ccfb5d6e6148314d6e28bdc35ea1989[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jun 18 03:08:29 2024 +0800
+
+    docs: Update consuming days.
+
+[33mcommit e8912d9aa3b7f5f4abbdbc3e515036ae297406c5[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jun 18 02:51:05 2024 +0800
+
+    docs: Updated Income and Expense
+
+[33mcommit 6c9c7f4e233b59d65a1497ff8fdeb57a54163cd4[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jun 18 02:49:34 2024 +0800
+
+    docs: Update Ingredient price and Meal Plan.
+
+[33mcommit 7f2b20594bf2dce35d1a334e3c3c7a477641de10[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Thu Jun 13 18:42:54 2024 +0800
+
+    docs: Update the Hospital expense
+
+[33mcommit c0ee6bb97b544a4b9e30d47efe55dba8d4ed7b45[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Thu Jun 13 18:39:58 2024 +0800
+
+    docs: Update Salary and Expense
+
+[33mcommit d76b0963c90ef326d4873ca3178ccdd5297f2810[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Mon Jun 10 19:28:12 2024 +0800
+
+    docs: Updated document
+
+[33mcommit f19085f137e6b1bf9db83245700188488d4f0142[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Mon Jun 10 19:22:45 2024 +0800
+
+    docs: Added $300 Hong Kong Dollar Ingredients
+
+[33mcommit 330b7940b5b645fe8a947e0c24c09241e10c66cf[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Mon Jun 10 18:51:23 2024 +0800
+
+    docs: Added Alan Tang Meal
+
+[33mcommit fa58cd3e9dd515676bafc9df1b48f3a8f302a0d4[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 9 04:14:41 2024 +0800
+
+    docs: re-arrange installment for Mom
+
+[33mcommit 745d78c50a8d825c0c1f185cff71d7f2ac1e3900[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 9 01:41:08 2024 +0800
+
+    docs: Updated Expense and rearrange installments
+
+[33mcommit e5ea45a9aa5056574b3c33b753734aa2b2cf6a8f[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Jun 8 01:17:04 2024 +0800
+
+    docs: Pay earlier, Update the installment for
+    Ng Wing Lam.
+
+[33mcommit eb5c8db7085c3cc84a85ceccf96d61e4a47b7942[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sat Jun 8 00:03:54 2024 +0800
+
+    docs: Update the installment plan For Ng Wing Lam.
+
+[33mcommit 42aafff2e2dc00417af73c8fa2c2b9808bee2abd[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Fri Jun 7 12:27:33 2024 +0800
+
+    docs: Updated payback amount for Ng Wing Lam
+
+[33mcommit 2a1b227701e95888fed9c8e42a6dc4ee2325f82e[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Fri Jun 7 00:17:17 2024 +0800
+
+    docs: Updated the HSBC Account
+
+[33mcommit 7a7a7fbd0e983aa76203768e63c8235ebdc07ca0[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Thu Jun 6 14:28:04 2024 +0800
+
+    docs: Updated the Income and added Additional fees
+    payment.
+
+[33mcommit f52aa1ee2c1e76dcd4be2574dac8248347014ade[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Tue Jun 4 01:11:17 2024 +0800
+
+    docs: Added Sosim expense
+
+[33mcommit ec36f0020190460ea612adc218e8894fb391cc48[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Mon Jun 3 19:02:12 2024 +0800
+
+    docs: Removed the Header
+
+[33mcommit 81cc707baaae2c62b807a449ada37a635105ae8c[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 2 20:16:38 2024 +0800
+
+    docs: updated
+
+[33mcommit 4ec8ef7b6b06056b329eb40f5ad535daedcf6587[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 2 18:07:24 2024 +0800
+
+    docs: document updated
+
+[33mcommit d33b20185f3e9ae1ab54c1b0ec52ca3e85f64672[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 2 07:42:12 2024 +0800
+
+    docs: README.md Updated
+
+[33mcommit ec63f1e0e6f014734f3e187c06f2d42c8d15c49c[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 2 07:38:24 2024 +0800
+
+    docs: Borrowed $200 HK Dollar From My Mother.
+
+[33mcommit fb84e02900a261808e357bc50922bef9bf243f08[m
+Merge: fcb82c3 f66ea02
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 2 07:15:27 2024 +0800
+
+    Merge branch 'main' of https://github.com/singluntang/Income-Forecast
+
+[33mcommit fcb82c30fb3c1d73434d038cd309ceed4874935c[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 2 07:13:23 2024 +0800
+
+    docs: Alan Tang_s Income Expense Now updated
+
+[33mcommit 9121e5bce213aa8f48c6b081c9c9e20cb6ecb629[m
+Author: singluntang <alantangsinglun@gmail.com>
+Date:   Sun Jun 2 07:13:04 2024 +0800
+
+    docs: README.md update
+
+[33mcommit f66ea02310166689f257fa39842df1d9b0140903[m
+Author: Sing Lun Alan Tang <168390908+singluntang@users.noreply.github.com>
+Date:   Wed May 15 00:25:27 2024 +0800
+
+    Update README.md
+
+[33mcommit c041f4f7b045301e6252ba12f4ed0249d8eda622[m
+Author: Sing Lun Alan Tang <168390908+singluntang@users.noreply.github.com>
+Date:   Wed May 15 00:24:54 2024 +0800
+
+    Update README.md
+
+[33mcommit 13a0ba55ca3f707ff836a621d0c624c69253d8c8[m
+Author: Sing Lun Alan Tang <168390908+singluntang@users.noreply.github.com>
+Date:   Tue May 14 12:28:27 2024 +0800
+
+    Update README.md
+    
+    Update README.md
+
+[33mcommit 6100d7aa7d9539207f53f5991debd391253921d9[m
+Author: alantng <alantangsinglun@gmail.com>
+Date:   Mon Apr 29 23:39:23 2024 +0800
+
+    docs: initial commit
+
+[33mcommit a644beda3f500bdab546b1531476b8ff58a65233[m
+Author: alantng <alantangsinglun@gmail.com>
+Date:   Mon Apr 29 23:38:52 2024 +0800
+
+    first commit
