@@ -1,7 +1,4 @@
 # Income-Expenditure-Forecast 
-# NOT FOR IDIOTS AND PLEASE DO MODIFICATION FOR YOUR OWN COPY :)
-# Statement Declaration
-Not for Dog use, especially for the dogs who live in Wong Tai Sin - Mui Yuen Hse Estate.
 
 # Project Description
 This is an Income Expenditure Forecast Caculator, it forecast your 3 months of your personal income and expenditure.
